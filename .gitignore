@@ -39,8 +39,5 @@ cmake-build-debug/CMakeFiles/3.13.2/CMakeCXXCompiler.cmake
 cmake-build-debug/CMakeFiles/3.13.2/CMakeCCompiler.cmake
 cmake-build-debug/CMakeCache.txt
 cmake-build-debug/cmake_install.cmake
-.idea/workspace.xml
-.idea/modules.xml
-.idea/misc.xml
-.idea/encodings.xml
-.idea/CS372Spring2019HW1.iml
+.idea/
+
