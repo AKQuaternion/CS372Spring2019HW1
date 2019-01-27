@@ -23,7 +23,10 @@ int main() {
    cout << "George Meier gets an A+ ... and some extra credit!" << endl;
    cout << "I'll take an A please. Thanks, Laura" << endl;
    cout << "JA+ke" << endl;
+<<<<<<< HEAD
    cout << "Pl3@s3 g!v3 Kim @n A th!s !s th3 b3st j0k3 th3y c0uld c0m3 up w!th !'m s0rry" <<endl;
 
+=======
+>>>>>>> c2657fb3979bd706fbf61e3deb189d63447b49c7
    return 0;
 }
