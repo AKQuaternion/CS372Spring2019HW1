@@ -22,5 +22,6 @@ int main() {
    cout << "Simeon deserves an A!" << endl;
    cout << "George Meier gets an A+ ... and some extra credit!" << endl;
    cout << "I'll take an A please. Thanks, Laura" << endl;
+   cout << "JA+ke" << endl;
    return 0;
 }
