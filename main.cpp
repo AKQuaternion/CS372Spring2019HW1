@@ -20,5 +20,6 @@ int main() {
         << "}" << endl << endl;
    cout << "Noah 01000111 01001001 01010110 01000101 00100000 01000001 00101011 00100000 01010000 01001100 01011010" << endl;
    cout << "Simeon deserves an A!" << endl;
+   cout << "George Meier gets an A+ ... and some extra credit!" << endl;
    return 0;
 }
