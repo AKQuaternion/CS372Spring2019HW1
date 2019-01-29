@@ -28,5 +28,10 @@ int main() {
    cout << "Pl3@s3 g!v3 Kim @n A th!s !s th3 b3st j0k3 th3y c0uld c0m3 up w!th !'m s0rry" <<endl;
    cout << "printk(KERN_NOTICE \"Please give Kernell an A!\\n\" );" << endl;
    cout << "Alex Lewandowski gets an A." << endl;
+   cout << "Due to popular demand, it has come to my attention that Andrew Adler would like an A on this assignment." << endl;
+   cout << "Michael Bilan: A+ Achievement Unlocked!" << endl;
+   cout << "Andrew Parker needs an A!" << endl;cout << "Ian Ferguson's Dad always told him that '2nd place is just the first loser' so he would like an A please." << endl;
+   cout << "Jonathan Aarhus would like an A please." << endl;
+
    return 0;
 }
