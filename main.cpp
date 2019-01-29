@@ -31,6 +31,6 @@ int main() {
    cout << "Michael Bilan: A+ Achievement Unlocked!" << endl;
    cout << "Andrew Parker needs an A!" << endl;
     cout << "Ian Ferguson's Dad always told him that '2nd place is just the first loser' so he would like an A please." << endl;
-	cout << "Jonathan Aarhus would like an A pleas" << endl;
+	cout << "Jonathan Aarhus would like an A please." << endl;
    return 0;
 }
